@@ -1,6 +1,6 @@
 || Név | Jön | Fizetett |
 |:---:|  :---:       |     :---:      |      :---:    |
-|-|FIXINFO|17|0|
+|-|FIXINFO|20|0|
 |1| Rita   |:heavy_check_mark:|:x:|
 |2| Flori  |:heavy_check_mark:|:x:|
 |3| Totya  |:heavy_check_mark:|:x:|
@@ -27,9 +27,9 @@
 |24|Ipacs|:x:|:x:|
 |25|Lili |:x:|:x:|
 |26|Ricsi|:x:|:x:|
-|27| |:x:|:x:|
-|28| |:x:|:x:|
-|29| |:x:|:x:|
+|27|Zoli |:heavy_check_mark:|:x:|
+|28| Levy|:heavy_check_mark:|:x:|
+|29|Petro|:heavy_check_mark:|:x:|
 |30| |:x:|:x:|
 |31| |:x:|:x:|
 |32| |:x:|:x:|
