@@ -1,10 +1,7 @@
 || Név | Jön | Fizetett |
 |:---:|  :---:       |     :---:      |      :---:    |
 |-|FIXINFO|12|0|
-|1| Rita   |.[x] .||| Név | Jön | Fizetett |
-|:---:|  :---:       |     :---:      |      :---:    |
-|-|FIXINFO|12|0|
-|1| Rita   |<ul><li>[x] item1</li></ul>|<ul><li>[ ] item1</li></ul>|
+|1| Rita   |:heavy_check_mark:|:x:|
 |2| Flori  |<ul><li>[x]</li></ul>|<li>[ ] </li></ul>|
 |3| Totya  |.[x] .|.[ ] .|
 |4| Holló  |.[x] .|.[ ] .|
