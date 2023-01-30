@@ -1,71 +1,37 @@
 || Név | Jön | Fizetett |
 |:---:|  :---:       |     :---:      |      :---:    |
-|-|FIXINFO|12|0|
+|-|FIXINFO|13|0|
 |1| Rita   |:heavy_check_mark:|:x:|
-|2| Flori  |<ul><li>[x]</li></ul>|<li>[ ] </li></ul>|
-|3| Totya  |.[x] .|.[ ] .|
-|4| Holló  |.[x] .|.[ ] .|
-|5| Szandi |.[x] .|.[ ] .|
-|6| Barbi  |.[x] .|.[ ] .|
-|7| Zsolti a 3 lábú|.[x] .|.[ ] .|
-|8| Vikor  |.[x] .|.[ ] .|
-|9| Nate   |[ ] .| .[ ] .|
-|10| Zsofi  |[ ] .|.[ ] .|
-|11| Kimi  |.[x] .|.[ ] .|
-|12| Klaudia  |[ ] .|.[ ] .|
-|13| Kohi  |.[x] .|.[ ] .|
-|14| Dzseni  |[ ] .|.[ ] .|
-|15| Nagy Dani  |[ ] .|.[ ] .|
-|16| Bölcsföldi  |.[x] .|.[ ] .|
-|17| Daniel JMD  |[ ] .|.[ ] .|
-|18| Gombás Fanni  |[ ] .|.[ ] .|
-|19| István Kürtösi  |[ ] .|.[ ] .|
-|20| Jani Faragó  |[ ] .|.[ ] .|
-|21| János Bernáth  |[ ] .|.[ ] .|
-|22| Kálmán Horvát  |[ ] .|.[ ] .|
-|23|Peti aka Esőember|.[x] .|.[ ] .|
-|24|Ipacs |[ ] .|.[ ] .|
-|25|Lili |[ ] .|.[ ] .|
-|26|Ricsi|[ ] .|.[ ] .|
-|27| |.[ ] .|.[ ] .|
-|28| |.[ ] .|.[ ] .|
-|29| |.[ ] .|.[ ] .|
-|30| |.[ ] .|.[ ] .|
-|31| |.[ ] .|.[ ] .|
-|32| |.[ ] .|.[ ] .|
-|33| |.[ ] .|.[ ] .|
-|34| |.[ ] .|.[ ] .|
-|
-|2| Flori  |.[x] .|.[ ] .|
-|3| Totya  |.[x] .|.[ ] .|
-|4| Holló  |.[x] .|.[ ] .|
-|5| Szandi |.[x] .|.[ ] .|
-|6| Barbi  |.[x] .|.[ ] .|
-|7| Zsolti a 3 lábú|.[x] .|.[ ] .|
-|8| Vikor  |.[x] .|.[ ] .|
-|9| Nate   |[ ] .| .[ ] .|
-|10| Zsofi  |[ ] .|.[ ] .|
-|11| Kimi  |.[x] .|.[ ] .|
-|12| Klaudia  |[ ] .|.[ ] .|
-|13| Kohi  |.[x] .|.[ ] .|
-|14| Dzseni  |[ ] .|.[ ] .|
-|15| Nagy Dani  |[ ] .|.[ ] .|
-|16| Bölcsföldi  |.[x] .|.[ ] .|
-|17| Daniel JMD  |[ ] .|.[ ] .|
-|18| Gombás Fanni  |[ ] .|.[ ] .|
-|19| István Kürtösi  |[ ] .|.[ ] .|
-|20| Jani Faragó  |[ ] .|.[ ] .|
-|21| János Bernáth  |[ ] .|.[ ] .|
-|22| Kálmán Horvát  |[ ] .|.[ ] .|
-|23|Peti aka Esőember|.[x] .|.[ ] .|
-|24|Ipacs |[ ] .|.[ ] .|
-|25|Lili |[ ] .|.[ ] .|
-|26|Ricsi|[ ] .|.[ ] .|
-|27| |.[ ] .|.[ ] .|
-|28| |.[ ] .|.[ ] .|
-|29| |.[ ] .|.[ ] .|
-|30| |.[ ] .|.[ ] .|
-|31| |.[ ] .|.[ ] .|
-|32| |.[ ] .|.[ ] .|
-|33| |.[ ] .|.[ ] .|
-|34| |.[ ] .|.[ ] .|
+|2| Flori  |:heavy_check_mark:|:x:|
+|3| Totya  |:heavy_check_mark:|:x:|
+|4| Holló  |:heavy_check_mark:|:x:|
+|5| Szandi |:heavy_check_mark:|:x:|
+|6| Barbi  |:heavy_check_mark:|:x:|
+|7| Zsolti a 3 lábú|:heavy_check_mark:|:x:|
+|8| Vikor  |:heavy_check_mark:|:x:|
+|9| Nate   |:x:|:x:|
+|10| Zsofi  |:x:|:x:|
+|11| Kimi  |:heavy_check_mark:|:x:|
+|12| Klaudia  |:x:|:x:|
+|13| Kohi  |:heavy_check_mark:|:x:|
+|14| Dzseni  |:x:|:x:|
+|15| Nagy Dani  |:x:|:x:|
+|16| Bölcsföldi  |:heavy_check_mark:|:x:|
+|17| Daniel JMD  |:x:|:x:|
+|18| Gombás Fanni  |:x:|:x:|
+|19| István Kürtösi|:x:|:x:|
+|20| Jani Faragó   |:x:|:x:|
+|21| János Bernáth |:heavy_check_mark:|:x:|
+|22| Kálmán Horvát |:x:|:x:|
+|23|Peti aka Esőember|:heavy_check_mark:|:x:|
+|24|Ipacs|:x:|:x:|
+|25|Lili |:x:|:x:|
+|26|Ricsi|:x:|:x:|
+|27| |:x:|:x:|
+|28| |:x:|:x:|
+|29| |:x:|:x:|
+|30| |:x:|:x:|
+|31| |:x:|:x:|
+|32| |:x:|:x:|
+|33| |:x:|:x:|
+|34| |:x:|:x:|
