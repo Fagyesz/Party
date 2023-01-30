@@ -1,6 +1,6 @@
 || Név | Jön | Fizetett |
 |:---:|  :---:       |     :---:      |      :---:    |
-|-|FIXINFO|13|0|
+|-|FIXINFO|16|0|
 |1| Rita   |:heavy_check_mark:|:x:|
 |2| Flori  |:heavy_check_mark:|:x:|
 |3| Totya  |:heavy_check_mark:|:x:|
@@ -9,15 +9,15 @@
 |6| Barbi  |:heavy_check_mark:|:x:|
 |7| Zsolti a 3 lábú|:heavy_check_mark:|:x:|
 |8| Vikor  |:heavy_check_mark:|:x:|
-|9| Nate   |:x:|:x:|
-|10| Zsofi  |:x:|:x:|
+|9| Nate   |:heavy_check_mark:|:x:|
+|10| Zsofi  |:heavy_check_mark:|:x:|
 |11| Kimi  |:heavy_check_mark:|:x:|
 |12| Klaudia  |:x:|:x:|
 |13| Kohi  |:heavy_check_mark:|:x:|
 |14| Dzseni  |:x:|:x:|
 |15| Nagy Dani  |:x:|:x:|
 |16| Bölcsföldi  |:heavy_check_mark:|:x:|
-|17| Daniel JMD  |:x:|:x:|
+|17| Daniel JMD  |:heavy_check_mark:|:x:|
 |18| Gombás Fanni  |:x:|:x:|
 |19| István Kürtösi|:x:|:x:|
 |20| Jani Faragó   |:x:|:x:|
