@@ -4,8 +4,8 @@
 |1| Rita   |.[x] .||| Név | Jön | Fizetett |
 |:---:|  :---:       |     :---:      |      :---:    |
 |-|FIXINFO|12|0|
-|1| Rita   |.[x] .|<ul><li>[x] item1</li><li>[ ] item2</li></ul>|
-|2| Flori  |.[x] .|.[ ] .|
+|1| Rita   |[x] item1|[ ] item2[ ]|
+|2| Flori  |[x]|.[ ] .|
 |3| Totya  |.[x] .|.[ ] .|
 |4| Holló  |.[x] .|.[ ] .|
 |5| Szandi |.[x] .|.[ ] .|
