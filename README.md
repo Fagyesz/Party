@@ -18,9 +18,9 @@
 |15| Nagy Dani  |:question:|:x:|
 |16| Bölcsföldi  |:heavy_check_mark:|:x:|
 |17| Daniel JMD  |:heavy_check_mark:|:x:|
-|18| Gombás Fanni  | :exclamation:|:x:|
+|18| Gombás Fanni  | :x:|:x:|
 |19| István Kürtösi|:question:|:x:|
-|20| Jani Faragó   | :exclamation:|:x:|
+|20| Jani Faragó   | :x:|:x:|
 |21| János Bernáth |:heavy_check_mark:|:x:|
 |22| Kálmán Horvát |:question:|:x:|
 |23|Peti aka Esőember|:heavy_check_mark:|:x:|
