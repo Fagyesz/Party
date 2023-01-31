@@ -1,6 +1,6 @@
 || Név | Jön | Fizetett |
 |:---:|  :---:       |     :---:      |      :---:    |
-|-|FIXINFO|20|0|
+|-|FIXINFO|19|0|
 |1| Rita   |:heavy_check_mark:|:x:|
 |2| Flori  |:heavy_check_mark:|:x:|
 |3| Totya  |:heavy_check_mark:|:x:|
@@ -13,7 +13,7 @@
 |10| Zsofi  |:heavy_check_mark:|:x:|
 |11| Kimi  |:heavy_check_mark:|:x:|
 |12| Klaudia  |:question:|:x:|
-|13| Kohi  |:heavy_check_mark:|:x:|
+|13| Kohi  |:question:|:x:|
 |14| Dzseni  |:heavy_check_mark:|:x:|
 |15| Nagy Dani  |:question:|:x:|
 |16| Bölcsföldi  |:heavy_check_mark:|:x:|
