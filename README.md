@@ -31,7 +31,7 @@
 |28| Levy|:heavy_check_mark:|:x:|
 |29|Petro|:heavy_check_mark:|:x:|
 |30| Zsolt-zsvel |:question:|:x:|
-|31| Virág |:heavy_check_mark|:x:|
-|32| Virág párja |:heavy_check_mark|:x:|
+|31| Virág |:heavy_check_mark:|:x:|
+|32| Virág párja |:heavy_check_mark:|:x:|
 |33|Kitti |:question:|:x:|
 |34| |:question:|:x:|
