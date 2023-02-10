@@ -23,7 +23,7 @@
 |20| Jani Faragó   | :x:|:x:|
 |21| János Bernáth |:heavy_check_mark:|:x:|
 |22| Kálmán Horvát |:question:|:x:|
-|23|Peti aka Esőember|:heavy_check_mark:|:x:|
+|23|Peti aka Esőember|:x:|:x:|
 |24|Ipacs|:question:|:x:|
 |25|Lili |:question:|:x:|
 |26|Ricsi|:question:|:x:|
