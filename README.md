@@ -20,7 +20,7 @@
 |17| Daniel JMD  |:heavy_check_mark:|:x:|
 |18| Gombás Fanni  | :x:|:x:|
 |19| István Kürtösi|:question:|:x:|
-|20| Jani Faragó   | :x:|:x:|
+|20| Kitti   | :question:|:x:|
 |21| János Bernáth |:heavy_check_mark:|:x:|
 |22| Kálmán Horvát |:question:|:x:|
 |23|Peti aka Esőember|:x:|:x:|
@@ -33,5 +33,5 @@
 |30| Zsolt-zsvel |:question:|:x:|
 |31| Virág |:heavy_check_mark:|:x:|
 |32| Virág párja |:heavy_check_mark:|:x:|
-|33|Kitti |:question:|:x:|
+|33| |:question:|:x:|
 |34| |:question:|:x:|
