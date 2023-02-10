@@ -1,6 +1,6 @@
 || Név | Jön | Fizetett |
 |:---:|  :---:       |     :---:      |      :---:    |
-|-|FIXINFO|22|0|
+|-|FIXINFO|21|0|
 |1| Rita   |:heavy_check_mark:|:x:|
 |2| Flori  |:heavy_check_mark:|:x:|
 |3| Totya  |:heavy_check_mark:|:x:|
